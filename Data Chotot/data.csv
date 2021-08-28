@@ -1,0 +1,10 @@
+beds,baths,city,sqft,property_type,parkingSpots,listPrice,has_pool,lotSize,view_type,architecture_style,yearBuilt,needs_repair
+3,2,Chicago,1100,Residential,,235000,,3781.0,,Other,1955,0
+4,3,Chicago,2200,Residential,2.0,260000,,4234.0,,Bungalow,1915,0
+2,1,Chicago,750,Residential,,275000,,,,Other,1926,0
+3,2,Chicago,1248,Residential,2.0,309900,,5279.0,,Ranch,1962,0
+3,2,Chicago,1337,Residential,2.0,324900,,,,Georgian,1949,0
+4,3,Chicago,2330,Residential,2.0,350000,,6142.0,,Other,1932,0
+2,2,Chicago,1000,Residential,1.0,249900,,,,Other,2005,0
+3,2,Chicago,1610,Residential,2.0,336900,,3790.0,,Georgian,1944,0
+3,2,Chicago,1498,Residential,1.0,229900,,3341.0,,Other,1915,0
