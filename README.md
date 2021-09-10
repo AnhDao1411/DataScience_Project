@@ -12,7 +12,7 @@
 
 ## House Price's Prediction
 ### Description
-- This project is created to answer the question "How much you have to prepare to get the dream house?". Answer this question will help people (especially young people) to have a target that motivates to earn money. To answer this question, we use Linear Regression model and MLPRegressor (both from sklearn) with MASHVISOR data (using Selenium and API).
+This project is created to answer the question "How much you have to prepare to get the dream house?". Answer this question will help people (especially young people) to have a target that motivates to earn money. To answer this question, we use Linear Regression model and MLPRegressor (both from sklearn) with MASHVISOR data (using Selenium and API).
 
 ### Requirment
 Must run in min_ds-env (from Data Science course -  Mr. Trần Trung Kiên)
